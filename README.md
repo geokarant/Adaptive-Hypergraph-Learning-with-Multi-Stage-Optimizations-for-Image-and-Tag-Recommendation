@@ -1,5 +1,5 @@
 # Adaptive-Hypergraph-Learning-with-Multi-Stage-Optimizations-for-Image-and-Tag-Recommendation
-This is a Matlab implementation of HMSO and HMSO (LMS) of Adaptive Hypergraph Learning with Multi Stage Optimizations for Image and Tag Recommendation journal paper. 
+This is a Matlab implementation of Hypergraph multi-stage optimization scheme (HMSO) and HMSO using Least Mean Squares HMSO (LMS) of Adaptive Hypergraph Learning with Multi Stage Optimizations for Image and Tag Recommendation journal paper. 
 # run HMSO
 excecute main script in folder experiments_on_greek_pois_dataset.
 ## HMSO results compared to other methods
