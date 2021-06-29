@@ -8,7 +8,7 @@ disp("Loading mat files...")
 load('data.mat')
 n_clusters = 5000; %number of clusters
 
-%% load updated weight matrix (W update algorithm, Gao)
+%% load updated weight matrix
 % load weights to avoid the time consuming procedure of w update
 load('w_updated.mat')
 
